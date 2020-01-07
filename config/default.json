@@ -1,0 +1,5 @@
+{
+  "privateKey":"registry_privateKey",
+  "PORT": "PORT",
+  "db": "db"
+}
